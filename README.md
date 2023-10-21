@@ -16,15 +16,19 @@ only this applies to all images, including the logo and so on!
 ![preview](https://github.com/cbFelix/images-parser/blob/main/src/preview.png)
 ## Getting Started!
 Use to clone repository:
-```python
+```
 git clone https://github.com/cbFelix/images-parser
 ```
+Go to the directory of the cloned repository:
+```
+cd images-parser
+```
 Install packages:
-```python
+```
 pip install -r requirements.txt
 ```
 Open Interface:
-```python
+```
 python main.py
 ```
 
