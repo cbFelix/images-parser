@@ -6,7 +6,7 @@ only this applies to all images, including the logo and so on!
 **Attention, at the moment the application does not use proxy servers! Use only at your own risk!**
 
 # Attention!
-**The author (author's name) is not responsible for user actions related to the use** **of this application. Users should not use this application to download images from** **websites without proper permission or copyright infringement.**
+**The author (Victor "cbFelix" Lebedev) is not responsible for user actions related to the use** **of this application. Users should not use this application to download images from** **websites without proper permission or copyright infringement.**
 
 **Use of this application implies that users understand and accept all risks associated** **with their actions, including possible legal consequences.**
 
