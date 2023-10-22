@@ -27,7 +27,7 @@ def download_images():
 root = Tk()
 root.geometry('800x500')
 root.title('Images Parser by cbFelix')
-# root.resizable(False, False)
+root.resizable(False, False)
 
 fr_preview = Frame(root, width=796, height=2, borderwidth=1, relief='solid')
 fr_preview.pack(side=TOP)
