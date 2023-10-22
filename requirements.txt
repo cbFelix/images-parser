@@ -1,7 +1,7 @@
-tkinter
 beautifulsoup4
 requests
 string
 random
 os
 urllib3
+threading
