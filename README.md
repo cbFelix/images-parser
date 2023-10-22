@@ -16,7 +16,7 @@ Example: 127.0.0.1:8080**
 -   Added the ability to select the format in which the file will be saved
 
 # Attention!
-**The author (Victor "cbFelix" Lebedev) is not responsible for user actions related to the use** **of this application. Users should not use this application to download images from** **websites without proper permission or copyright infringement.**
+**The author (cbFelix) is not responsible for user actions related to the use** **of this application. Users should not use this application to download images from** **websites without proper permission or copyright infringement.**
 
 **Use of this application implies that users understand and accept all risks associated** **with their actions, including possible legal consequences.**
 
